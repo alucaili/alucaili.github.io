@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://alucaili.github.io/Cbd/sitemap_index.txt
+Sitemap: https://alucaili.github.io/PKY/sitemap_index.txt
+Sitemap: https://alucaili.github.io/UtI/sitemap_index.txt
+Sitemap: https://alucaili.github.io/hIE/sitemap_index.txt
